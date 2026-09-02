@@ -142,14 +142,19 @@ Python projects focused on working with APIs, data structures, functions, and pr
 
 ### Microsoft
 
-* **Microsoft Certified: Power BI Data Analyst Associate** — PL-300
-* **Microsoft Certified: Fabric Analytics Engineer Associate** — DP-600
-* **Microsoft Certified: Fabric Data Engineer Associate** — DP-700
-* **Microsoft Certified: Azure Data Fundamentals** — DP-900
+* [**Microsoft Certified: Power BI Data Analyst Associate — PL-300**](https://learn.microsoft.com/en-us/users/aamirali-9106/credentials/44d2810d06bdc48f)
+* [**Microsoft Certified: Fabric Data Engineer Associate — DP-700**](https://learn.microsoft.com/en-us/users/aamirali-9106/credentials/e2571ed6e08509a2)
+* [**Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**](https://learn.microsoft.com/en-us/users/aamirali-9106/credentials/330a5b99e80d0d6c)
 
 ### Google
 
 * **Google Cloud / Generative AI Leader**
+
+### Other Certifications
+
+* [**Generative AI Application Developer — PEC**](https://credsverse.com/credentials/594ba7a6-f397-4603-9bc6-5c02db40b062?preview=1)
+* [**Data Engineering — Karachi AI**](https://drive.google.com/file/d/1sVWOdl1jIOi5ZaLz6olPDkLtb5Sa8kFY/view)
+
 
 ---
 
