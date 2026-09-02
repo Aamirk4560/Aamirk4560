@@ -138,19 +138,24 @@ Python projects focused on working with APIs, data structures, functions, and pr
 
 ---
 
-## 🎓 Education
+## 🏆 Certifications
 
-**Postgraduate Degree in Data Science**
+### Microsoft
+
+* **Microsoft Certified: Power BI Data Analyst Associate** — PL-300
+* **Microsoft Certified: Fabric Analytics Engineer Associate** — DP-600
+* **Microsoft Certified: Fabric Data Engineer Associate** — DP-700
+* **Microsoft Certified: Azure Data Fundamentals** — DP-900
+
+### Google
+
+* **Google Cloud / Generative AI Leader**
 
 ---
 
-## 🏆 Certifications
+## 🎓 Education
 
-* Microsoft Certified: Power BI Data Analyst Associate
-* Microsoft Certified: Fabric Analytics Engineer Associate
-* Microsoft Certified: Fabric Data Engineer Associate
-* Microsoft Certified: Azure Data Fundamentals
-* Google Generative AI Leader
+**Postgraduate Degree in Data Science**
 
 ---
 
