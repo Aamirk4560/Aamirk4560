@@ -8,40 +8,43 @@ I work with **Python, SQL, Power BI, Microsoft Fabric, PySpark, and Machine Lear
 
 ---
 
-### 🔎 What I Do
+## 🔎 What I Do
 
 * 📊 Build data analytics and business intelligence solutions
 * ⚙️ Develop ETL/ELT pipelines and data platforms
 * 🧠 Develop and evaluate machine learning models
 * 📈 Create interactive dashboards and analytical reports
-* ☁️ Work with modern data platforms and cloud technologies
+* 🔄 Transform and integrate data using Python, SQL, and PySpark
+* ☁️ Work with modern cloud data platforms
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Data**
+### 💻 Programming & Data
 
 * Python
 * SQL
 * Pandas
+* NumPy
 * PySpark
 
-**Data Analytics & BI**
+### 📊 Analytics & Business Intelligence
 
 * Power BI
 * DAX
-* Excel
+* Microsoft Excel
 
-**Data Engineering**
+### ⚙️ Data Engineering
 
 * Microsoft Fabric
 * Lakehouse
 * Data Warehouse
 * ETL / ELT
 * Data Pipelines
+* Delta Lake
 
-**Data Science & Machine Learning**
+### 🤖 Data Science & Machine Learning
 
 * Scikit-learn
 * PyTorch
@@ -49,51 +52,126 @@ I work with **Python, SQL, Power BI, Microsoft Fabric, PySpark, and Machine Lear
 * Machine Learning
 * Time Series Forecasting
 
+### ☁️ Cloud & Tools
+
+* Microsoft Azure
+* Google Cloud
+* Git
+* GitHub
+* VS Code
+
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 End-to-End Data Engineering & Analytics Platform
+### 🏗️ End-to-End Data Engineering & Analytics Platform
 
 **Microsoft Fabric | PySpark | SQL | Power BI**
 
-An end-to-end data platform demonstrating data ingestion, transformation, data warehousing, analytics, security, and automated reporting.
+An end-to-end data platform demonstrating modern data engineering and analytics practices, including data ingestion, transformation, data warehousing, data quality, security, reporting, and automation.
 
-### 🔮 Radiology Forecasting
+**Key concepts:**
 
-**Python | Prophet | Pandas | Streamlit**
+* Medallion architecture
+* Bronze / Silver / Gold data layers
+* ETL / ELT pipelines
+* PySpark transformations
+* SQL data warehousing
+* Power BI semantic models and reporting
+* Row-level security
+* Data quality and process monitoring
+* Automated reporting and notifications
 
-A time-series forecasting solution for predicting radiology procedure volumes, including data preprocessing, feature engineering, forecasting, evaluation, and interactive visualization.
-
-### 🩺 Diabetes Disease Prediction
-
-**Python | Scikit-learn | Pandas | Machine Learning**
-
-A machine learning project covering exploratory data analysis, preprocessing, model development, and evaluation for diabetes prediction.
-
-### 📈 Data Analysis Projects
-
-**Python | Pandas | SQL | Visualization**
-
-Projects focused on exploratory data analysis, data cleaning, feature engineering, visualization, and extracting actionable insights.
+> A sanitized portfolio implementation is provided to demonstrate the architecture and technical approach without exposing confidential organizational data.
 
 ---
 
-## 🎓 Education & Certifications
+### 🔮 Radiology Forecasting
 
-* Postgraduate Degree in Data Science
-* Microsoft Certified: Power BI Data Analyst
-* Microsoft Certified: Fabric Analytics / Data Engineering
-* Google Cloud & Generative AI certifications
+**Python | Prophet | Pandas | Streamlit | Time Series Forecasting**
+
+A machine learning forecasting solution designed to predict daily radiology procedure volumes.
+
+**Key concepts:**
+
+* Data preprocessing
+* Time-series aggregation
+* Feature engineering
+* Weekly seasonality
+* Holiday effects
+* Outlier detection
+* Forecast evaluation
+* Interactive Streamlit dashboard
+
+---
+
+### 🩺 Diabetes Disease Prediction
+
+**Python | Pandas | Scikit-learn | Machine Learning**
+
+A supervised machine learning project for predicting diabetes using patient-related features.
+
+**Key concepts:**
+
+* Exploratory Data Analysis
+* Data preprocessing
+* Feature preparation
+* Multiple classification algorithms
+* Model evaluation
+* Performance comparison
+
+---
+
+### 📊 Data Analysis
+
+**Python | Pandas | NumPy | Visualization**
+
+A collection of data analysis work covering data cleaning, exploratory analysis, feature engineering, visualization, and extracting insights from datasets.
+
+---
+
+### 🔌 API & Python Projects
+
+**Python | APIs | Data Processing**
+
+Python projects focused on working with APIs, data structures, functions, and practical programming concepts.
+
+---
+
+## 🎓 Education
+
+**Postgraduate Degree in Data Science**
+
+---
+
+## 🏆 Certifications
+
+* Microsoft Certified: Power BI Data Analyst Associate
+* Microsoft Certified: Fabric Analytics Engineer Associate
+* Microsoft Certified: Fabric Data Engineer Associate
+* Microsoft Certified: Azure Data Fundamentals
+* Google Generative AI Leader
+
+---
+
+## 📌 Career Focus
+
+I am interested in opportunities across:
+
+**Data Analytics → Data Engineering → Data Science**
+
+with a particular interest in building scalable data solutions and applying machine learning to real-world problems.
 
 ---
 
 ## 📫 Connect With Me
 
-* 📍 Karachi, Pakistan
-* 💼 LinkedIn
-* 📧 Email
+📍 Karachi, Pakistan
+
+💼 LinkedIn: *Add your LinkedIn profile here*
+
+📧 Email: *Add your professional email here*
 
 ---
 
-⭐ I'm interested in opportunities across **Data Analytics, Data Engineering, and Data Science**.
+⭐ Thanks for visiting my profile!
