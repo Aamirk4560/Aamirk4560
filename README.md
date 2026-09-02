@@ -1,10 +1,20 @@
 # Hi, I'm Aamir Ali 👋
 
-### Data Analyst | Data Engineer | Data Scientist
+### Data Analyst | Data Engineer | Aspiring Data Scientist
 
-I’m a Data professional focused on transforming data into reliable insights, scalable data pipelines, and machine learning solutions.
+I’m a Data professional with a background in **Data Science**, focused on building data-driven solutions across analytics, data engineering, business intelligence, and machine learning.
 
-My experience spans **data analytics, data engineering, business intelligence, and machine learning**, with a strong focus on Python, SQL, Power BI, and Microsoft Fabric.
+I work with **Python, SQL, Power BI, Microsoft Fabric, PySpark, and Machine Learning** to transform raw data into reliable pipelines, actionable insights, and predictive solutions.
+
+---
+
+### 🔎 What I Do
+
+* 📊 Build data analytics and business intelligence solutions
+* ⚙️ Develop ETL/ELT pipelines and data platforms
+* 🧠 Develop and evaluate machine learning models
+* 📈 Create interactive dashboards and analytical reports
+* ☁️ Work with modern data platforms and cloud technologies
 
 ---
 
