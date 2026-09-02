@@ -122,7 +122,7 @@ A supervised machine learning project for predicting diabetes using patient-rela
 
 ---
 
-### 🏗️ PSCMD — End-to-End Procurement Data Platform
+### 🏗️ End-to-End Procurement Data Platform
 
 **Microsoft Fabric | PySpark | SQL | Power BI | ETL/ELT | Data Analytics**
 
