@@ -160,7 +160,16 @@ Python projects focused on working with APIs, data structures, functions, and pr
 
 ## 🎓 Education
 
-**Postgraduate Degree in Data Science**
+**Master's in Data Science**
+NED University of Engineering and Technology (NEDUET)
+📍 Karachi, Pakistan | **CGPA: 3.87/4.00**
+Aug 2023 – Dec 2025
+
+**Bachelor's in Electrical Engineering**
+Usman Institute of Technology (UIT-NEDUET)
+📍 Karachi, Pakistan | **CGPA: 2.97/4.00**
+Sept 2016 – Nov 2020
+
 
 ---
 
