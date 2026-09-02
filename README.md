@@ -122,6 +122,31 @@ A supervised machine learning project for predicting diabetes using patient-rela
 
 ---
 
+### 🏗️ PSCMD — End-to-End Procurement Data Platform
+
+**Microsoft Fabric | PySpark | SQL | Power BI | ETL/ELT | Data Analytics**
+
+An end-to-end procurement data platform designed to ingest, transform, validate, and analyze procurement data using modern data engineering and analytics technologies.
+
+**Key areas:**
+
+* Designed a **Bronze → Silver → Warehouse/Gold** data architecture
+* Built ETL/ELT pipelines using **Microsoft Fabric**
+* Developed data transformation and cleansing workflows using **PySpark**
+* Implemented SQL-based data processing and business logic
+* Built analytical datasets and reporting structures for Power BI
+* Developed **DAX measures** for procurement KPIs and business reporting
+* Implemented data quality, deduplication, and incremental processing logic
+* Added process logging and monitoring for pipeline execution
+* Implemented **Row-Level Security (RLS)**
+* Automated reporting workflows and email notifications
+
+**Technologies:** Microsoft Fabric, OneLake, Lakehouse, Data Warehouse, PySpark, SQL, Power BI, DAX, Python, ETL/ELT
+
+> 🔒 Portfolio version: implementation details and organizational data are intentionally sanitized to protect confidential information.
+
+---
+
 ### 📊 Data Analysis
 
 **Python | Pandas | NumPy | Visualization**
